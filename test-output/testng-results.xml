@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26829" started-at="2020-02-27T10:52:40Z" finished-at="2020-02-27T10:53:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26829" started-at="2020-02-27T10:52:40Z" finished-at="2020-02-27T10:53:07Z">
+      <class name="com.cts.openemrtest.LoginTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="initialization" is-config="true" duration-ms="8683" started-at="2020-02-27T10:52:40Z" finished-at="2020-02-27T10:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="invalidCredentialTest()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="invalidCredentialTest" duration-ms="1926" started-at="2020-02-27T10:52:49Z" finished-at="2020-02-27T10:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentialTest -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="endBrowser" is-config="true" duration-ms="728" started-at="2020-02-27T10:52:51Z" finished-at="2020-02-27T10:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="initialization" is-config="true" duration-ms="7751" started-at="2020-02-27T10:52:52Z" finished-at="2020-02-27T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validCredentialsTest()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="validCredentialsTest" duration-ms="6919" started-at="2020-02-27T10:53:00Z" finished-at="2020-02-27T10:53:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentialsTest -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.openemrtest.LoginTest@7f77e91b]" name="endBrowser" is-config="true" duration-ms="771" started-at="2020-02-27T10:53:06Z" finished-at="2020-02-27T10:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+      </class> <!-- com.cts.openemrtest.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
